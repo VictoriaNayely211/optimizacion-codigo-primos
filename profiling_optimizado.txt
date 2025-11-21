@@ -1,0 +1,30 @@
+Fri Nov 21 18:18:43 2025    profiling_optimizado.prof
+
+         309081 function calls (306648 primitive calls) in 0.690 seconds
+
+   Ordered by: cumulative time
+   List reduced from 932 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    116/1    0.001    0.000    0.690    0.690 {built-in method builtins.exec}
+        1    0.000    0.000    0.690    0.690 codigo_optimizado.py:1(<module>)
+        1    0.059    0.059    0.348    0.348 codigo_optimizado.py:15(main)
+    147/2    0.002    0.000    0.342    0.171 <frozen importlib._bootstrap>:1349(_find_and_load)
+    147/2    0.001    0.000    0.341    0.171 <frozen importlib._bootstrap>:1304(_find_and_load_unlocked)
+    143/2    0.001    0.000    0.341    0.170 <frozen importlib._bootstrap>:911(_load_unlocked)
+    114/1    0.000    0.000    0.340    0.340 <frozen importlib._bootstrap_external>:989(exec_module)
+    363/4    0.002    0.000    0.339    0.085 <frozen importlib._bootstrap>:480(_call_with_frames_removed)
+        1    0.000    0.000    0.339    0.339 C:\Users\compu\anaconda3\Lib\site-packages\numpy\__init__.py:1(<module>)
+    373/9    0.000    0.000    0.302    0.034 {built-in method builtins.__import__}
+   250/40    0.001    0.000    0.298    0.007 <frozen importlib._bootstrap>:1390(_handle_fromlist)
+   100000    0.270    0.000    0.289    0.000 codigo_optimizado.py:5(es_primo_rapido)
+      114    0.002    0.000    0.090    0.001 <frozen importlib._bootstrap_external>:1062(get_code)
+        1    0.000    0.000    0.089    0.089 C:\Users\compu\anaconda3\Lib\site-packages\numpy\__config__.py:1(<module>)
+        1    0.000    0.000    0.088    0.088 C:\Users\compu\anaconda3\Lib\site-packages\numpy\core\__init__.py:1(<module>)
+  143/139    0.000    0.000    0.080    0.001 <frozen importlib._bootstrap>:806(module_from_spec)
+        1    0.000    0.000    0.080    0.080 C:\Users\compu\anaconda3\Lib\site-packages\numpy\lib\__init__.py:1(<module>)
+       18    0.000    0.000    0.075    0.004 <frozen importlib._bootstrap_external>:1287(create_module)
+       18    0.068    0.004    0.073    0.004 {built-in method _imp.create_dynamic}
+      114    0.001    0.000    0.064    0.001 <frozen importlib._bootstrap_external>:1183(get_data)
+
+
