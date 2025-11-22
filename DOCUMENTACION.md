@@ -80,8 +80,6 @@ Se generaron los archivos:
   - Iterar solo hasta √n  
   - Menor número de operaciones  
   - Uso de NumPy  
-
-![alt text](image-2.png)
 <img width="1339" height="829" alt="image" src="https://github.com/user-attachments/assets/127feef6-b53d-468c-8680-be3855dff7ea" />
 
 
