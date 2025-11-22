@@ -1,5 +1,3 @@
- <img width="226" height="223" alt="image" src="https://github.com/user-attachments/assets/c8324aa1-c8cc-4e04-be32-62ca7c232580" />
-Optimización de Código y Medición de Tiempos  
 **Nombre:** Victoria Moyon
 **Asignatura:** Cultura Digital  
 **Unidad 2 – Tema 2**  
