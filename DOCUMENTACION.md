@@ -79,7 +79,9 @@ Se generaron los archivos:
 - La función `es_primo_rapido` tiene un tiempo mucho menor gracias a:
   - Iterar solo hasta √n  
   - Menor número de operaciones  
-  - Uso de NumPy  
+  - Uso de NumPy
+  <img width="921" height="578" alt="image" src="https://github.com/user-attachments/assets/20a5b7be-4522-47f7-99b7-3a03b7b3756c" />
+
 <img width="1339" height="829" alt="image" src="https://github.com/user-attachments/assets/127feef6-b53d-468c-8680-be3855dff7ea" />
 
 
