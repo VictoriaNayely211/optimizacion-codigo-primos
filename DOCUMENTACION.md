@@ -94,6 +94,9 @@ Se generaron los archivos:
 
 ![alt text](image-4.png)
 
+<img width="1385" height="823" alt="image" src="https://github.com/user-attachments/assets/6192f35b-8d64-45e9-8fcb-3ad4ed1f52e4" />
+
+
 Estas gráficas muestran de manera visual el impacto que tuvo la optimización.
 
 ---
