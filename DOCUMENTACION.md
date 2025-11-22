@@ -1,4 +1,4 @@
-# Optimización de Código y Medición de Tiempos  
+ Optimización de Código y Medición de Tiempos  
 **Nombre:** Victoria Moyon
 **Asignatura:** Cultura Digital  
 **Unidad 2 – Tema 2**  
@@ -8,7 +8,7 @@
 
 ---
 
-# 1. Introducción
+1. Introducción
 
 El objetivo de esta actividad es aplicar técnicas de optimización y buenas prácticas de programación 
 para mejorar la eficiencia de un algoritmo en Python que identifica números primos dentro del 
@@ -28,7 +28,7 @@ A continuación se presenta el código original utilizado, junto con su tiempo d
 
 ---
 
-# 2. Optimización del Código
+2. Optimización del Código
 
 ###  1. Iterar solo hasta la raíz cuadrada  
 Reduce drásticamente el número de divisiones necesarias.
@@ -43,8 +43,7 @@ Se utiliza `np.arange` para generar el rango de valores como un arreglo optimiza
   
 ![alt text](image-1.png)
 
-
-# 3. Resultados y Análisis
+ 3. Resultados y Análisis
 
 Los tiempos de ejecución promedio fueron:
 
@@ -60,7 +59,7 @@ Esto representa una mejora de aproximadamente:
 
 ---
 
-## 3.1 Análisis usando cProfile  
+ 3.1 Análisis usando cProfile  
 
 
 Se generaron los archivos:
@@ -85,7 +84,7 @@ Se generaron los archivos:
 <img width="1339" height="829" alt="image" src="https://github.com/user-attachments/assets/127feef6-b53d-468c-8680-be3855dff7ea" />
 
 
-## 3.2 Gráficas con Matplotlib  
+3.2 Gráficas con Matplotlib  
 
 
 ###  Distribución de tiempos de ejecución  
@@ -102,7 +101,7 @@ Estas gráficas muestran de manera visual el impacto que tuvo la optimización.
 
 ---
 
-# 4. Conclusiones
+ 4. Conclusiones
 
 - La optimización aplicada reduce el tiempo de ejecución de más de **40 segundos** a menos de **1 segundo**.
 - El uso de **raíces cuadradas**, **list comprehensions** y **NumPy** tiene un impacto significativo en el rendimiento.
@@ -112,7 +111,7 @@ Estas gráficas muestran de manera visual el impacto que tuvo la optimización.
 
 ---
 
-# 5. Enlace al repositorio GitHub
+ 5. Enlace al repositorio GitHub
 
 **Repositorio del proyecto:**  
 https://github.com/VictoriaNayely211/optimizacion-codigo-primos
