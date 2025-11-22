@@ -30,15 +30,15 @@ A continuación se presenta el código original utilizado, junto con su tiempo d
 
 2. Optimización del Código
 
-###  1. Iterar solo hasta la raíz cuadrada  
+  1. Iterar solo hasta la raíz cuadrada  
 Reduce drásticamente el número de divisiones necesarias.
 <img width="921" height="578" alt="image" src="https://github.com/user-attachments/assets/43b80f43-e0ca-4fc5-847c-97a05dc841c5" />
 
-###  2. Uso de *list comprehensions*  
+  2. Uso de *list comprehensions*  
 Permiten generar listas de forma más eficiente y legible.
 <img width="921" height="581" alt="image" src="https://github.com/user-attachments/assets/513b3bd6-2e77-4f44-87be-e18fca6419dc" />
 
-###  3. Uso de NumPy  
+  3. Uso de NumPy  
 Se utiliza `np.arange` para generar el rango de valores como un arreglo optimizado.
   
 ![alt text](image-1.png)
