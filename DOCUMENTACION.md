@@ -82,6 +82,8 @@ Se generaron los archivos:
   - Uso de NumPy  
 
 ![alt text](image-2.png)
+<img width="1339" height="829" alt="image" src="https://github.com/user-attachments/assets/127feef6-b53d-468c-8680-be3855dff7ea" />
+
 
 ## 3.2 Gráficas con Matplotlib  
 
@@ -94,7 +96,6 @@ Se generaron los archivos:
 
 ![alt text](image-4.png)
 
-<img width="1385" height="823" alt="image" src="https://github.com/user-attachments/assets/6192f35b-8d64-45e9-8fcb-3ad4ed1f52e4" />
 
 
 Estas gráficas muestran de manera visual el impacto que tuvo la optimización.
